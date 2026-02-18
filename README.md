@@ -1,6 +1,6 @@
 # Excel Dashboard Project
 
-## 📊 Project Overview
+## 📌 Project Overview
 This Excel dashboard project was created as part of my **Data Analytics learning journey**.
 The goal of this project is to analyze Superstore sales data and present key business insights through an interactive dashboard.
 
@@ -12,7 +12,7 @@ The goal of this project is to analyze Superstore sales data and present key bus
 - Slicers & Interactivity
 - Dashboard Design
 
-## 📈 Key Insights
+## 💡 Key Insights
 - Achieved **$12.6M in total sales** with a **12% profit margin**.
 - **Technology** is the leading category in both sales and profit.
 - **Smartphones** lead top sales, reflecting strong demand in the Technology segment.
