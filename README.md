@@ -22,13 +22,13 @@ The goal of this project is to analyze Superstore sales data and present key bus
 
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Excel_Dashboard_Overview.PNG)
 
-![Dashboard with Slicers](dashboard_with_slicer.png)
+![Dashboard with Slicers](Excel_Dashboard_Slicer.PNG)
 
 ## 📂 Files in This Repository
 - `superstore_dashboard_portfolio.xlsx` – Excel dashboard file  
-- `dashboard_overview.png` – Dashboard snapshot  
-- `dashboard_with_slicer.png` – Dashboard with slicer applied  
+- `Excel_Dashboard_Overview.PNG` – Dashboard snapshot  
+- `Excel_Dashboard_Slicer.PNG` – Dashboard with slicer applied  
 
 
